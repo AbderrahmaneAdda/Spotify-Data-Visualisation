@@ -1,2 +1,3 @@
-# Spotify-Data-Visualisation
-Some Data visualisation with the last 10 years top charts on Spotify . 
+# Portfolio
+Welcome to my portoflio. I am Abderrahmane ADDA, young Data Scientist. You can find in this page different project I worked on.
+Don't hesitate to contact me to have more information.
